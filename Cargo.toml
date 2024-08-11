@@ -1,5 +1,5 @@
 [package]
-name = "cantor-pair"
+name = "Cantor-Pair"
 version = "0.1.1"
 edition = "2021"
 license = "WTFPL"
