@@ -1,0 +1,13 @@
+[package]
+name = "Cantor-Pair"
+version = "0.1.0"
+edition = "2021"
+license-file = "WTFPL"
+keywords = ["cantor", "cantor-pair"]
+categories = ["algorithms"]
+description = "A general algorithm to enable cantor pairing and unpairing between usizes. I'm not responsible for any damages if this code breaks GL GG"
+repository = "https://github.com/git4unrealnondev/Rust-Cantor-Pair"
+authors = ["git4unrealnondev"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
