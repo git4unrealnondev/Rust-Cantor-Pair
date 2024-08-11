@@ -1,1 +1,1 @@
-A simple alforithm to enable cantor pairing has a small test
+A simple algorithm to enable cantor pairing has a small test
