@@ -2,7 +2,7 @@
 name = "Cantor-Pair"
 version = "0.1.0"
 edition = "2021"
-license-file = "WTFPL"
+license = "WTFPL"
 keywords = ["cantor", "cantor-pair"]
 categories = ["algorithms"]
 description = "A general algorithm to enable cantor pairing and unpairing between usizes. I'm not responsible for any damages if this code breaks GL GG"
